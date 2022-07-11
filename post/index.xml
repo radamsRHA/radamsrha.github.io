@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Latest News | Adams Research Group</title>
+    <link>https://radamsrha.github.io/post/</link>
+      <atom:link href="https://radamsrha.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Latest News</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 30 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://radamsrha.github.io/media/icon_hu237f1342e1c5a714e45460be27f642e3_332696_512x512_fill_lanczos_center_3.png</url>
+      <title>Latest News</title>
+      <link>https://radamsrha.github.io/post/</link>
+    </image>
+    
+    <item>
+      <title>NSF-ROA funded!</title>
+      <link>https://radamsrha.github.io/post/22-05-30-nsf/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://radamsrha.github.io/post/22-05-30-nsf/</guid>
+      <description>&lt;p&gt;We have some exciting news: our collaborative NSF-ROA proposal &amp;ldquo;Leveraging genomes, transcriptomes, and proteomes alongside student training to improve genome annotation&amp;rdquo; has been accepted for funding!&lt;/p&gt;
+&lt;p&gt;This proposal represents a collaborative effort with the McKenna lab at the University of Memphis to improve annotation of difficult-to-find genes (e.g., olfactory receptor) in longhorned beetles. Rich will be a visiting scientist at UofM in Summer 2022, and this proposal will fund undergraduate researchers to work on the problem of &amp;ldquo;fantastic genes and where to find them&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Exciting things ahead!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>MURACE funded!</title>
+      <link>https://radamsrha.github.io/post/22-04-30-murace/</link>
+      <pubDate>Sat, 30 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://radamsrha.github.io/post/22-04-30-murace/</guid>
+      <description>&lt;p&gt;We have some exciting news: Zoe Cain&amp;rsquo;s MURACE proposal was funded for Summer 2022!&lt;/p&gt;
+&lt;p&gt;Zoe will be working this Summer on data science projects, and the application of supervised learning algorithms to gene expression data.
+Great work, Zoe!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Collaborative work published in PNAS</title>
+      <link>https://radamsrha.github.io/post/21-08-30-pnas/</link>
+      <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://radamsrha.github.io/post/21-08-30-pnas/</guid>
+      <description>&lt;p&gt;We are very excited to share &lt;a href=&#34;https://www.pnas.org/content/118/24/e2017384118&#34;&gt;our new publication in the Proceedings of the National Academy of Sciences&lt;/a&gt;, which illuminated molecular evolution of beetles along the Antartic Polar Front.&lt;/p&gt;
+&lt;p&gt;This proposal represents a collaborative effort with the McKenna lab at the University of Memphis to improve annotation of difficult-to-find genes (e.g., olfactory receptor) in longhorned beetles. Rich will be a visiting scientist at UofM in Summer 2022, and this proposal will fund undergraduate researchers to work on the problem of &amp;ldquo;fantastic genes and where to find them&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Exciting things ahead!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Of Traits &amp; Trees published in SysBio</title>
+      <link>https://radamsrha.github.io/post/21-07-30-sysbio1/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://radamsrha.github.io/post/21-07-30-sysbio1/</guid>
+      <description>&lt;p&gt;Check our &lt;a href=&#34;https://academic.oup.com/sysbio/article/70/4/660/6136195&#34;&gt;recently published study in Systematic Biology&lt;/a&gt; that provides new mathematical tools and software for studying &amp;ldquo;Big Data&amp;rdquo; in evolutionary biology.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
