@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>publications | Adams Analytics Group</title>
+    <link>https://example.com/category/publications/</link>
+      <atom:link href="https://example.com/category/publications/index.xml" rel="self" type="application/rss+xml" />
+    <description>publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/media/icon_hu237f1342e1c5a714e45460be27f642e3_332696_512x512_fill_lanczos_center_3.png</url>
+      <title>publications</title>
+      <link>https://example.com/category/publications/</link>
+    </image>
+    
+  </channel>
+</rss>

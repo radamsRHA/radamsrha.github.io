@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Student researchers:Send profile | Adams Analytics Group</title>
+    <link>https://example.com/author/student-researcherssend-profile/</link>
+      <atom:link href="https://example.com/author/student-researcherssend-profile/index.xml" rel="self" type="application/rss+xml" />
+    <description>Student researchers:Send profile</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/student-researcherssend-profile/AVATAR_huecc4fa436b69ee6d269e0980eb3c118a_728510_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Student researchers:Send profile</title>
+      <link>https://example.com/author/student-researcherssend-profile/</link>
+    </image>
+    
+  </channel>
+</rss>
