@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Julio Morales | Adams Analytics Group</title>
+    <link>https://example.com/author/julio-morales/</link>
+      <atom:link href="https://example.com/author/julio-morales/index.xml" rel="self" type="application/rss+xml" />
+    <description>Julio Morales</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/julio-morales/AVATAR_hu790f1a9f73b877e750e8af4d026bc315_2042807_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Julio Morales</title>
+      <link>https://example.com/author/julio-morales/</link>
+    </image>
+    
+  </channel>
+</rss>

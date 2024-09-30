@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jekyll | Adams Analytics Group</title>
+    <link>https://example.com/category/jekyll/</link>
+      <atom:link href="https://example.com/category/jekyll/index.xml" rel="self" type="application/rss+xml" />
+    <description>jekyll</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 03 Mar 2023 15:04:23 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu237f1342e1c5a714e45460be27f642e3_332696_512x512_fill_lanczos_center_3.png</url>
+      <title>jekyll</title>
+      <link>https://example.com/category/jekyll/</link>
+    </image>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://example.com/zpublication/_publication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/zpublication/_publication/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.pnas.org/content/118/24/e2017384118&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fifty million years of beetle evolution along the Antarctic Polar Front.&lt;/a&gt;H Baird, S Shin, R Oberprieler, M Hullé, P Vernon, K Moon,  &lt;strong&gt;Adams, R.H.&lt;/strong&gt;, D McKenna, S Chown. &lt;em&gt;&lt;strong&gt;Proceedings of the National Academy of Sciences&lt;/strong&gt;&lt;/em&gt; &lt;a href=&#34;https://www.pnas.org/content/118/27/e2108886118&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PNAS Commentary&lt;/a&gt; &lt;a href=&#34;https://www.youtube.com/watch?v=71pcacpHeBU&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;VIDEO&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syab009/6136195?searchresult=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Of traits and trees: probabilistic distances for dissecting the interplay among phylogeny, model, and data. &lt;/a&gt;&lt;strong&gt;Adams, R.H.&lt;/strong&gt;, Blackmon, H., and M DeGiorgio. &lt;em&gt;&lt;strong&gt;Systematic Biology&lt;/strong&gt;&lt;/em&gt;
+&lt;a href=&#34;assets/TraitsAndTrees.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://academic.oup.com/sysbio/article/69/1/194/5488962&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Probabilistic species tree distances: implementing the multispecies coalescent to compare species trees within the same model-based framework used to estimate them. &lt;/a&gt;&lt;strong&gt;Adams, R.H.&lt;/strong&gt;, and Castoe, T.A. 2020. &lt;em&gt;&lt;strong&gt;Systematic Biology&lt;/strong&gt;&lt;/em&gt;
+&lt;a href=&#34;assets/SysBio_2020a.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btaa884/5922815?redirectedFrom=fulltext&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PhyloWGA: chromosome-aware phylogenetic interrogation of whole genome alignments&lt;/a&gt;. &lt;strong&gt;Adams, R.H.&lt;/strong&gt;, Castoe, T.A., and M DeGiorgio. 2020. &lt;em&gt;&lt;strong&gt;Bioinformatics&lt;/strong&gt;&lt;/em&gt;
+&lt;a href=&#34;assets/PhyloWGA.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msaa253/5912540&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt; Microchromosomes exhibit distinct features of vertebrate chromosome structure and function with underappreciated ramifications for genome evolution.&lt;/a&gt;. Perry, B.W., D.R. Schield, &lt;strong&gt;R.H. Adams&lt;/strong&gt;, and T.A. Castoe. 2020. &lt;em&gt;&lt;strong&gt;Molecular Biology and Evolution&lt;/strong&gt;&lt;/em&gt;
+&lt;a href=&#34;assets/MicroChrom.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S1055790320300427?via%3Dihub&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genome-wide SNPs clarify lineage diversity confused by coloration in coralsnakes of the Micrurus diastema (Serpentes: Elapidae) species complex&lt;/a&gt;. *Reyes-Velasco, J., *&lt;strong&gt;Adams, R.H.&lt;/strong&gt;, S. Boissinot, C.L. Parkinson, J.A. Campbell, T.A. Castoe, and E.N. Smith. 2020. &lt;em&gt;&lt;strong&gt;Molecular Phylogenetics and Evolution&lt;/strong&gt;&lt;/em&gt;.*co-first author &lt;a href=&#34;assets/AdamsReyesVelasco_2020.pdf&#34;&gt;PDF&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msaa003/5700722&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Snake Recombination Landscapes Are Concentrated in Functional Regions despite PRDM9&lt;/a&gt;. Schield, D.R, G.I.M. Pasquesi, B.W. Perry, &lt;strong&gt;Adams, R.H.&lt;/strong&gt;, Z. L. Nikolakis, R.W. Orton, J.M. Meik, S.P. Mackessy, and T.A. Castoe 2020. &lt;em&gt;&lt;strong&gt;Molecular Biology and Evolution&lt;/strong&gt;&lt;/em&gt;.
+&lt;a href=&#34;assets/SnakeRecomb_MBE_2020.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/article/10.1007/s40610-019-00120-0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Recent advances in the inference of gene flow from population genomic data. &lt;/a&gt;
+&lt;strong&gt;Adams, R.H.&lt;/strong&gt;, Schield, D.R., and Castoe, T.A. 2019. &lt;em&gt;&lt;strong&gt;Current Molecular Biology Reports&lt;/strong&gt;&lt;/em&gt;.
+&lt;a href=&#34;assets/RecentAdvancesGeneFlow2019.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S1055790318305153?via%3Dihub&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Statistical binning suffers profound model violation due to gene tree error incurred by trying to avoid gene tree error. &lt;/a&gt;
+&lt;strong&gt;Adams, R.H.&lt;/strong&gt;, and Castoe, T.A. 2019. &lt;em&gt;&lt;strong&gt;Molecular Phylogenetics and Evolution&lt;/strong&gt;&lt;/em&gt;.
+&lt;a href=&#34;assets/AdamsCastoeMPE2019.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S2215016119302493&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Supergene validation: a model-based protocol for assessing the accuracy of non-model-based supergene methods. &lt;/a&gt;
+&lt;strong&gt;Adams, R.H.&lt;/strong&gt;, and Todd A. Castoe. &lt;em&gt;&lt;strong&gt;MethodsX&lt;/strong&gt;&lt;/em&gt; 2019.
+&lt;a href=&#34;assets/AdamsCastoeMethodsX2019.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://academic.oup.com/gbe/article/11/11/3123/5603307?rss=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genomic basis of convergent island phenotypes in boa constrictors. &lt;/a&gt;
+Card, D.C., &lt;strong&gt;Adams, R.H.&lt;/strong&gt;, A.B. Corbin, B.W. Perry, A.L. Andrew, G.I.M. Pasquesi, S.M. Boback, and T.A. Castoe. &lt;em&gt;&lt;strong&gt;Genome Biology and Evolution&lt;/strong&gt;&lt;/em&gt;. 2019.
+&lt;a href=&#34;assets/GBE2019.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://academic.oup.com/biolinnean/article/128/1/149/5523649&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Allopatric divergence and secondary contact with gene flow – a recurring theme in rattlesnake speciation. &lt;/a&gt;
+Schield, D.R,* B.W. Perry*, &lt;strong&gt;Adams, R.H.&lt;/strong&gt;, D.C. Card, T. Jezkova, G.I.M. Pasquesi, Z.L. Nikolakis, K. Row, J.M. Meik, C.F. Smith, S.P. Mackessy, and T.A. Castoe. 2019. &lt;em&gt;&lt;strong&gt;Biological Journal of the Linnean Society&lt;/strong&gt;&lt;/em&gt;. *joint primary authors.
+&lt;a href=&#34;assets/BJLS2019.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://genome.cshlp.org/content/early/2019/03/15/gr.240952.118.abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The origins and evolution of chromosomes, dosage compensation, and mechanisms underlying venom regulation in snakes. &lt;/a&gt;
+Schield, D.R., D.C. Card, N.M. Hales, B.W. Perry, G.I.M. Pasquesi, H. Blackmon, &lt;strong&gt;Adams, R.H.&lt;/strong&gt;, A.B. Corbin, C.F. Smith, B. Ramesh, J.P. Demuth, E. Betran, M. Tollis, J.M. Meik, S.P. Mackessy and T.A. Castoe. 2019. &lt;em&gt;&lt;strong&gt;Genome Research&lt;/strong&gt;&lt;/em&gt;.
+&lt;a href=&#34;assets//GenomeResearch2019.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/article/10.1007%2Fs10577-019-09613-1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A database of amphibian karyotypes. &lt;/a&gt;
+Perkins, R. D., Gamboa, J. R., Jonika, M. M., Lo, J., Shum, A., &lt;strong&gt;Adams, R.H.&lt;/strong&gt;, &amp;amp; Blackmon, H. 2019. &lt;em&gt;&lt;strong&gt;Chromosome Research&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://academic.oup.com/sysbio/article/67/6/1076/4995179&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Assessing the impacts of positive selection on coalescent-based species tree estimation and species delimitation. &lt;/a&gt;
+&lt;strong&gt;Adams, R.H.&lt;/strong&gt;, D.C. Card, D.R. Schield, and Castoe, T.A. 2018. &lt;em&gt;&lt;strong&gt;Systematic Biology&lt;/strong&gt;&lt;/em&gt; .
+&lt;a href=&#34;assets//AdamsSysBio2018.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://academic.oup.com/bioinformatics/article/34/6/1072/4670681&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ThetaMater: Bayesian estimation of population size parameter θ from genomic data. &lt;/a&gt;
+&lt;strong&gt;Adams, R.H.&lt;/strong&gt;, D.C. Card, D.R. Schield, A.B. Corbin, and T.A. Castoe. 2018. &lt;em&gt;&lt;strong&gt;Bioinformatics&lt;/strong&gt;&lt;/em&gt;.
+&lt;a href=&#34;assets//ThetaMater2019.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/full/10.1111/mec.14885&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Novel ecological and climatic conditions drive rapid adaptation in invasive Florida Burmese pythons. &lt;/a&gt;
+Card, D.C., B. Perry, &lt;strong&gt;Adams, R.H.&lt;/strong&gt;, D.R. Schield, A. Young, A.L. Andrew, T. Jezkova, M.R. Walsh, M. Rockford, F. Mazzotti, K. Hart, M. Hunter, and T.A. Castoe. 2018. &lt;em&gt;&lt;strong&gt;Molecular Ecology&lt;/strong&gt;&lt;/em&gt;.
+&lt;a href=&#34;assets//ME2019.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://academic.oup.com/gbe/article/10/8/2110/5061318&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Molecular adaptations for sensing and securing prey, and insight into amniote genome diversity, from the garter snake genome. &lt;/a&gt;
+Perry, B.W, Card, D.C., Pasquesi, G.I.M., &lt;strong&gt;Adams, R.H.&lt;/strong&gt;, Schield, D.R., N.R. Hales, A.B. Corbin, J.P. Demuth, F.G. Hoffmann, M.W. Vandewege, R. Schott, N. Bhattacharyya, B.S.W. Chang, N.R. Casewell, G. Whiteley, J. Reyes-Velasco, S.P. Mackessy, K.B. Storey, Gamble, T., K.K. Biggar, C.N. Passow, C. Kuo, S.E. McGaugh, A.M. Bronikowski, J. de Koning, S.V. Edwards, M.E. Pfrender, P. Minx, E.D. Brodie III, E.D. Brodie, Jr., W.C. Warren, and T.A. Castoe. 2018. &lt;em&gt;&lt;strong&gt;Genome Biology and Evolution&lt;/strong&gt;&lt;/em&gt;.
+&lt;a href=&#34;assets//GBE2018.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S1055790317304992?via%3Dihub&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cryptic genetic diversity, population structure, and gene flow in Mohave rattlesnakes Crotalus scutulatus. &lt;/a&gt;
+Schield, D.R, D.C. Card, &lt;strong&gt;Adams, R.H.&lt;/strong&gt;, A.B. Corbin, T. Jezkova, N.R. Hales, J.M. Meik, C.L. Spencer, L.L. Smith, G. Campillo Garcia, N.M. Bouzid, J.L. Strickland, R.W. Bryson Jr., C.L. Parkinson, O. Flores-Viella, S.P. Mackessy and T.A. Castoe. 2018. &lt;em&gt;&lt;strong&gt;Molecular Phylogenetics and Evolution&lt;/strong&gt;&lt;/em&gt;.
+&lt;a href=&#34;assets//MPEa2018.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nature.com/articles/s41467-018-05279-1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Squamate reptiles challenge paradigms of genomic repeat element evolution set by birds and mammals. &lt;/a&gt;
+Pasquesi, G.I.M., &lt;strong&gt;Adams, R.H.&lt;/strong&gt;, D.C. Card, D.R. Schield, B.W. Perry, A.B. Corbin, J. Reyes-Velasco, R.P. Ruggiero, M.W. Vandewege, J.A. Shortt, and T.A. Castoe. 2018. &lt;em&gt;&lt;strong&gt;Nature Communications&lt;/strong&gt;&lt;/em&gt;.
+&lt;a href=&#34;assets//NatureC2018.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.2996&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Insight into the roles of selection in speciation from genomic patterns of divergence and introgression in secondary contact in venomous rattlesnakes. &lt;/a&gt;
+Schield, D.R., &lt;strong&gt;Adams, R.H.&lt;/strong&gt;,  D.C. Card, B.W. Perry, G.I.M. Pasquesi, T. Jezkova, D.M. Portik, A.L. Andrew, C.L. Spencer, E.E. Sanchez, M.K. Fujita, S.P. Mackessy, and T.A. Castoe. 2017. &lt;em&gt;&lt;strong&gt;Ecology and Evolution&lt;/strong&gt;&lt;/em&gt;.
+&lt;a href=&#34;assets//EE2017.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://academic.oup.com/bioinformatics/article/33/9/1414/2736363&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GppFst: Genomic posterior predictive simulations of FST and dXY for identifying outlier loci from population genomic data.&lt;/a&gt;
+&lt;strong&gt;Adams, R.H.&lt;/strong&gt;, D.R. Schield, D.C. Card, H. Blackmon, and T.A. Castoe. 2017.  &lt;em&gt;&lt;strong&gt;Bioinformatics&lt;/strong&gt;&lt;/em&gt;.
+&lt;a href=&#34;assets//Gppfst2017.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nrcresearchpress.com/doi/full/10.1139/gen-2015-0124#.Xlklli2ZOEk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Microsatellite landscape evolutionary dynamics across 450 million years of vertebrate genome evolution.&lt;/a&gt;
+&lt;strong&gt;Adams, R.H.&lt;/strong&gt;, H.G. Blackman, J. Reyes-Velasco, D.R. Schield, D.C. Card, A.L. Andrew, N. Waynewood, and T.A. Castoe. 2016.  &lt;em&gt;&lt;strong&gt;Genome&lt;/strong&gt;&lt;/em&gt;. &lt;strong&gt;Received the Editor’s Choice Award for the journal Genome&lt;/strong&gt;.
+&lt;a href=&#34;assets//Adams2016Genome.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/article/10.1007/s12686-016-0534-y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A suite of potentially amplifiable microsatellite loci for reptiles of conservation concern from Africa and Asia. &lt;/a&gt;
+Shaney, K.J., &lt;strong&gt;Adams, R.H.&lt;/strong&gt;, N. Kurniawan, A. Hamidy, E.N. Smith, and T.A. Castoe. 2016. &lt;em&gt;&lt;strong&gt;Conservation Genetics Resources&lt;/strong&gt;&lt;/em&gt;.
+&lt;a href=&#34;assets/CGR2016.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S1055790316301245?via%3Dihub&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Phylogeographic and population genetic analyses reveal multiple species of Boa and independent origins of insular dwarfism. &lt;/a&gt;
+Card, D.C., D.R Schield, &lt;strong&gt;Adams, R.H.&lt;/strong&gt;, A.B. Corbin, B.W. Perry, A.L. Andrew, G.I.M. Pasquesi, E.N. Smith, T. Jezkova, S.M. Boback, W. Booth, and T.A. Castoe. 2016. &lt;em&gt;&lt;strong&gt;Molecular Phylogenetics and Evolution&lt;/strong&gt;&lt;/em&gt;.
+&lt;a href=&#34;assets/MPEa2016.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.12435&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EpiRadSeq: genome-wide analysis of shifts in DNA methylation using next-generation sequencing. &lt;/a&gt;
+Schield, D.R., M.F. Walsh, D.C. Card,  A.L. Andrew, &lt;strong&gt;Adams, R.H.&lt;/strong&gt;, and T.A. Castoe. 2016. &lt;em&gt;&lt;strong&gt;Methods in Ecology and Evolution&lt;/strong&gt;&lt;/em&gt;. Cover Article.
+&lt;a href=&#34;assets/MEEa2016.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.physiology.org/doi/full/10.1152/physiolgenomics.00131.2014?url_ver=Z39.88-2003&amp;amp;rfr_id=ori%3Arid%3Acrossref.org&amp;amp;rfr_dat=cr_pub%3Dpubmed&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rapid changes in gene expression direct rapid shifts in intestinal form and function in the Burmese python after feeding. &lt;/a&gt;
+Andrew, A.L., D.C. Card, R.P. Ruggiero, D.R. Schield, &lt;strong&gt;Adams, R.H.&lt;/strong&gt;, D.D. Pollock, S.M. Secor, and T.A. Castoe. 2015. &lt;em&gt;&lt;strong&gt;Physiological Genomics&lt;/strong&gt;&lt;/em&gt;.
+&lt;a href=&#34;assets/PG2015.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S1055790314004242?via%3Dihub&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Incipient speciation with biased gene flow between two lineages of the Western Diamondback Rattlesnake Crotalus atrox. &lt;/a&gt;
+Schield, D.R, D.C. Card, &lt;strong&gt;Adams, R.H.&lt;/strong&gt;, T. Jezkova, J. Reyes-Velasco, F.N. Proctor, C.L. Spencer, H-W. Herrmann, S.P. Mackessy, and T.A. Castoe. 2015. &lt;em&gt;&lt;strong&gt;Molecular Phylogenetics and Evolution&lt;/strong&gt;&lt;/em&gt;.
+&lt;a href=&#34;assets/MPE2015.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://academic.oup.com/mbe/article/32/1/173/2925580&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Expression of venom gene homologs in diverse python tissues suggests a new model for the evolution of snake venom. &lt;/a&gt;
+Reyes-Velasco J., D.C. Card, A.L. Andrew, K.J. Shaney, &lt;strong&gt;Adams, R.H.&lt;/strong&gt;, D.R. Schield, N.R. Casewell, S.P. Mackessy, and T.A. Castoe. 2014. &lt;em&gt;&lt;strong&gt;Molecular Biology and Evolution&lt;/strong&gt;&lt;/em&gt;.
+&lt;a href=&#34;assets/MBE2014.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
