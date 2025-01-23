@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Margo Mason | Adams Analytics Group</title>
+    <link>https://example.com/author/margo-mason/</link>
+      <atom:link href="https://example.com/author/margo-mason/index.xml" rel="self" type="application/rss+xml" />
+    <description>Margo Mason</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/margo-mason/AVATAR_hud69487f2d2aa27d2259f637d3f81a7b4_1221244_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Margo Mason</title>
+      <link>https://example.com/author/margo-mason/</link>
+    </image>
+    
+  </channel>
+</rss>

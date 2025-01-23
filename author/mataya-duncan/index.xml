@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mataya Duncan | Adams Analytics Group</title>
+    <link>https://example.com/author/mataya-duncan/</link>
+      <atom:link href="https://example.com/author/mataya-duncan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mataya Duncan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/mataya-duncan/AVATAR_huab36890f98f7882451e4bdd1ae66e443_3819329_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Mataya Duncan</title>
+      <link>https://example.com/author/mataya-duncan/</link>
+    </image>
+    
+  </channel>
+</rss>

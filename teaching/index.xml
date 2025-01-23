@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Past, Present, and Future Teaching | Adams Analytics Group</title>
+    <link>https://example.com/teaching/</link>
+      <atom:link href="https://example.com/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <description>Past, Present, and Future Teaching</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/media/icon_hu237f1342e1c5a714e45460be27f642e3_332696_512x512_fill_lanczos_center_3.png</url>
+      <title>Past, Present, and Future Teaching</title>
+      <link>https://example.com/teaching/</link>
+    </image>
+    
+    <item>
+      <title>Applied Regression</title>
+      <link>https://example.com/teaching/example5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/teaching/example5/</guid>
+      <description>&lt;p&gt;This course will provide DETAILS&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Design of Experiments</title>
+      <link>https://example.com/teaching/example3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/teaching/example3/</guid>
+      <description>&lt;p&gt;This course will provide the skills and intuition for designing, implementing, and analyzing various experimental settings and data&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fantastic Genes And Where To Find Them</title>
+      <link>https://example.com/teaching/example2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/teaching/example2/</guid>
+      <description>&lt;p&gt;This course will provide a hands-on introduction to computational genomics using newly-sequenced beetle genomes as a learning framework.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Data Science for Biologists</title>
+      <link>https://example.com/teaching/example/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/teaching/example/</guid>
+      <description>&lt;p&gt;Details: Data wrangling, visualization, hypothesis testing, inference, predictive modeling, supervised and unsupervised learning introductions&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Principles of Biology</title>
+      <link>https://example.com/teaching/example00/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/teaching/example00/</guid>
+      <description>&lt;p&gt;Introductory course to principles of biology (Fall 2022)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Principles of Experimentation</title>
+      <link>https://example.com/teaching/example4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/teaching/example4/</guid>
+      <description>&lt;p&gt;This course will provide DETAILS&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Latest News | Adams Analytics Group</title>
+    <link>https://example.com/post/</link>
+      <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Latest News</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu237f1342e1c5a714e45460be27f642e3_332696_512x512_fill_lanczos_center_3.png</url>
+      <title>Latest News</title>
+      <link>https://example.com/post/</link>
+    </image>
+    
+    <item>
+      <title>TraitTrainR published in Bioinformatics Advances!</title>
+      <link>https://example.com/post/25-11-01-traittrainr/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/25-11-01-traittrainr/</guid>
+      <description>&lt;p&gt;Jenny&amp;rsquo;s paper has been published in Bioinformatics Advances, detailing the computational advances and applications of TraitTrainR for understanding continuous trait evolution.&lt;/p&gt;
+&lt;p&gt;Congrats Jenny!&lt;/p&gt;
+&lt;p&gt;Check out the github here: &lt;a href=&#34;https://github.com/radamsRHA/TraitTrainR&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/radamsRHA/TraitTrainR&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;And the study itself: &lt;a href=&#34;https://academic.oup.com/bioinformaticsadvances/article/5/1/vbae196/7919597&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://academic.oup.com/bioinformaticsadvances/article/5/1/vbae196/7919597&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Adams Analytics Group rocks ESA 2024!</title>
+      <link>https://example.com/post/24-12-11-esa/</link>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/24-12-11-esa/</guid>
+      <description>&lt;p&gt;Jenniffer Roa Lozano (MS; Statistics &amp;amp; Analytics) and Mataya Duncan (MS; CEMB) both gave fantastic presentations at the annual Entomology Society Conference in Pheonix AZ.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Mataya also won a student presentation award!!!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Great work, Mataya and Jenny!&lt;/p&gt;
+&lt;p&gt;More to come! [ADD HERE]&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Robust algorithms for phylogenetic regression published!</title>
+      <link>https://example.com/post/24-08-10-sysbio/</link>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/24-08-10-sysbio/</guid>
+      <description>&lt;p&gt;Check out our recent paper that introduces new Robust phylogenetic algorithms for comparative biology.&lt;/p&gt;
+&lt;p&gt;Check it out!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://academic.oup.com/sysbio/article/73/1/140/7456117&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://academic.oup.com/sysbio/article/73/1/140/7456117&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Red milkweed beetle genome is published!!</title>
+      <link>https://example.com/post/24-09-10-tetra/</link>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/24-09-10-tetra/</guid>
+      <description>&lt;p&gt;Red Milkweed beetles and their milkweed hosts are a poster child of codiversification at the insect-plant interface.&lt;/p&gt;
+&lt;p&gt;We recently sequenced and assembled a reference genome for the common red milkweed longhorn beetle (Tetraopes tetraopthalmus). Check it out!&lt;/p&gt;
+&lt;p&gt;Check it out!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://academic.oup.com/jhered/advance-article/doi/10.1093/jhered/esae049/7745656&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://academic.oup.com/jhered/advance-article/doi/10.1093/jhered/esae049/7745656&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Also check out the media posts : )&lt;/p&gt;
+&lt;p&gt;2024: Adams et al. 2024 (New Beetle genome) Media Coverage:
+&lt;a href=&#34;https://www.msn.com/en-us/news/technology/red-milkweed-beetle-genome-offers-evolutionary-insights-into-plant-insect-interactions/ar-AA1s2TUR?ocid=BingNewsSerp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.msn.com/en-us/news/technology/red-milkweed-beetle-genome-offers-evolutionary-insights-into-plant-insect-interactions/ar-AA1s2TUR?ocid=BingNewsSerp&lt;/a&gt;
+&lt;a href=&#34;https://phys.org/news/2024-10-red-milkweed-beetle-genome-evolutionary.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://phys.org/news/2024-10-red-milkweed-beetle-genome-evolutionary.html&lt;/a&gt;
+&lt;a href=&#34;https://www.sciencedaily.com/releases/2024/10/241010142548.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.sciencedaily.com/releases/2024/10/241010142548.htm&lt;/a&gt;
+&lt;a href=&#34;https://www.earth.com/news/how-does-the-milkweed-beetle-safely-feed-on-a-toxic-plant/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.earth.com/news/how-does-the-milkweed-beetle-safely-feed-on-a-toxic-plant/&lt;/a&gt;
+&lt;a href=&#34;https://newtoncountytimes.com/stories/red-milkweed-beetle-genome-offers-insight-into-plant-insect-interactions,153622&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://newtoncountytimes.com/stories/red-milkweed-beetle-genome-offers-insight-into-plant-insect-interactions,153622&lt;/a&gt;
+&lt;a href=&#34;https://headtopics.com/us/red-milkweed-beetle-genome-offers-insight-into-plant-insect-60271628&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://headtopics.com/us/red-milkweed-beetle-genome-offers-insight-into-plant-insect-60271628&lt;/a&gt;
+&lt;a href=&#34;https://www.lifetechnology.com/blogs/life-technology-science-news/red-milkweed-beetle-genome-offers-evolutionary-insights-into-plant-insect-interactions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.lifetechnology.com/blogs/life-technology-science-news/red-milkweed-beetle-genome-offers-evolutionary-insights-into-plant-insect-interactions&lt;/a&gt;
+&lt;a href=&#34;https://www.miragenews.com/red-milkweed-beetle-genome-reveals-plant-insect-1334794/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.miragenews.com/red-milkweed-beetle-genome-reveals-plant-insect-1334794/&lt;/a&gt;
+&lt;a href=&#34;https://bioquicknews.com/red-milkweed-beetle-genome-offers-insight-into-plant-insect-interactions/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bioquicknews.com/red-milkweed-beetle-genome-offers-insight-into-plant-insect-interactions/&lt;/a&gt;
+&lt;a href=&#34;http://www.mafg.net/NewsDetail.aspx?NewsID=12143&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.mafg.net/NewsDetail.aspx?NewsID=12143&lt;/a&gt;
+&lt;a href=&#34;https://www.newsbreak.com/news/3628868175193-red-milkweed-beetle-genome-offers-insight-into-plant-insect-interactions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.newsbreak.com/news/3628868175193-red-milkweed-beetle-genome-offers-insight-into-plant-insect-interactions&lt;/a&gt;
+&lt;a href=&#34;https://www.magnoliareporter.com/education/colleges_universities/article_85481c70-8aca-11ef-a674-1f30224bf730.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.magnoliareporter.com/education/colleges_universities/article_85481c70-8aca-11ef-a674-1f30224bf730.html&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>New paper published in Molecular Biology and Evolution</title>
+      <link>https://example.com/post/23-08-10-mbe/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/23-08-10-mbe/</guid>
+      <description>&lt;p&gt;Check out our recent paper that introduces new, likelihood-based hypothesis tests for phylogenomics, which  was recently published in Molecular Biology and Evolution!&lt;/p&gt;
+&lt;p&gt;Check out our recent paper that introduces new, likelihood-based hypothesis tests for phylogenomics, which  was recently published in Molecular Biology and Evolution!&lt;/p&gt;
+&lt;p&gt;We can always estimate a phylogeny, but how much do you believe in your tree?&lt;/p&gt;
+&lt;p&gt;Here we describe new statistical frameworks for explicitly testing hypotheses about species-level relationships using gene trees.&lt;/p&gt;
+&lt;p&gt;Check it out!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://academic.oup.com/mbe/article/40/7/msad159/7223883&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://academic.oup.com/mbe/article/40/7/msad159/7223883&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>New collaborative paper published in Genome Biology and Evolution</title>
+      <link>https://example.com/post/23-07-10-gbe/</link>
+      <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/23-07-10-gbe/</guid>
+      <description>&lt;p&gt;Check out our recent collaborative work on single-cell RNAseq published in Genome Biology and Evolution!&lt;/p&gt;
+&lt;p&gt;Check out our recent collaborative work on single-cell RNAseq published in Genome Biology and Evolution!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://academic.oup.com/gbe/article/15/6/evad109/7197270&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://academic.oup.com/gbe/article/15/6/evad109/7197270&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Here we leverage single-cell RNAseq to understand regulatory variation underlying an extreme phenotype (venom!)&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Wooo Pig Sooie!</title>
+      <link>https://example.com/post/23-03-10-uark/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/23-03-10-uark/</guid>
+      <description>&lt;p&gt;We have some exciting news: the Adams Analytics Group as moved to the University of Arkansas Division of Agriculture!
+We are currently establishing our lab in the Department of Entomology and Plant Pathology, and the Center for Agricultural Data Analytics.&lt;/p&gt;
+&lt;p&gt;We are actively recruiting graduate and undergraduate students interested in machine learning, genomics, statistics, and evolution. Email Dr. Adams (&lt;a href=&#34;mailto:adamsrh@uark.edu&#34;&gt;adamsrh@uark.edu&lt;/a&gt;) if you are interested!&lt;/p&gt;
+&lt;p&gt;Exciting things ahead!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Collaborative work published in Nature Ecology and Evolution</title>
+      <link>https://example.com/post/22-07-30-nee/</link>
+      <pubDate>Sat, 30 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/22-07-30-nee/</guid>
+      <description>&lt;p&gt;We are very excited to share &lt;a href=&#34;https://www.nature.com/articles/s41559-022-01829-5&#34;&gt;our new publication in Nature Ecology &amp;amp; Evolution!&lt;/p&gt;
+&lt;p&gt;Detecting balancing selection is notoriously challenging, and we applied machine learning approaches to better detect such patterns from population genomic data.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>NSF-ROA funded!</title>
+      <link>https://example.com/post/22-05-30-nsf/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/22-05-30-nsf/</guid>
+      <description>&lt;p&gt;We have some exciting news: our collaborative NSF-ROA proposal &amp;ldquo;Leveraging genomes, transcriptomes, and proteomes alongside student training to improve genome annotation&amp;rdquo; has been accepted for funding!&lt;/p&gt;
+&lt;p&gt;This proposal represents a collaborative effort with the McKenna lab at the University of Memphis to improve annotation of difficult-to-find genes (e.g., olfactory receptor) in longhorned beetles. Rich will be a visiting scientist at UofM in Summer 2022, and this proposal will fund undergraduate researchers to work on the problem of &amp;ldquo;fantastic genes and where to find them&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Exciting things ahead!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>MURACE funded!</title>
+      <link>https://example.com/post/22-04-30-murace/</link>
+      <pubDate>Sat, 30 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/22-04-30-murace/</guid>
+      <description>&lt;p&gt;We have some exciting news: Zoe Cain&amp;rsquo;s MURACE proposal was funded for Summer 2022!&lt;/p&gt;
+&lt;p&gt;Zoe will be working this Summer on data science projects, and the application of supervised learning algorithms to gene expression data.
+Great work, Zoe!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Collaborative work published in PNAS</title>
+      <link>https://example.com/post/21-08-30-pnas/</link>
+      <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/21-08-30-pnas/</guid>
+      <description>&lt;p&gt;We are very excited to share &lt;a href=&#34;https://www.pnas.org/content/118/24/e2017384118&#34;&gt;our new publication in the Proceedings of the National Academy of Sciences&lt;/a&gt;, which illuminated molecular evolution of beetles along the Antartic Polar Front.&lt;/p&gt;
+&lt;p&gt;Exciting things ahead!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Of Traits &amp; Trees published in SysBio</title>
+      <link>https://example.com/post/21-07-30-sysbio1/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/21-07-30-sysbio1/</guid>
+      <description>&lt;p&gt;Check our &lt;a href=&#34;https://academic.oup.com/sysbio/article/70/4/660/6136195&#34;&gt;recently published study in Systematic Biology&lt;/a&gt; that provides new mathematical tools and software for studying &amp;ldquo;Big Data&amp;rdquo; in evolutionary biology.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

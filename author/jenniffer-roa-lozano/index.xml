@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jenniffer Roa Lozano | Adams Analytics Group</title>
+    <link>https://example.com/author/jenniffer-roa-lozano/</link>
+      <atom:link href="https://example.com/author/jenniffer-roa-lozano/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jenniffer Roa Lozano</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/jenniffer-roa-lozano/AVATAR_huab73c48dcebb918b96c1e1ff54653475_259095_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Jenniffer Roa Lozano</title>
+      <link>https://example.com/author/jenniffer-roa-lozano/</link>
+    </image>
+    
+  </channel>
+</rss>

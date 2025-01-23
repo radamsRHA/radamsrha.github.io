@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emilee Walden | Adams Analytics Group</title>
+    <link>https://example.com/author/emilee-walden/</link>
+      <atom:link href="https://example.com/author/emilee-walden/index.xml" rel="self" type="application/rss+xml" />
+    <description>Emilee Walden</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/media/icon_hu237f1342e1c5a714e45460be27f642e3_332696_512x512_fill_lanczos_center_3.png</url>
+      <title>Emilee Walden</title>
+      <link>https://example.com/author/emilee-walden/</link>
+    </image>
+    
+  </channel>
+</rss>
